@@ -5,7 +5,7 @@ title: Welcome to my Jekyll site
 
 # Hello World
 
-<div class="post-list">
+ <!--<div class="post-list">
   <h2>Blog Posts</h2>
   <ul>
     {% for post in site.posts %}
@@ -18,4 +18,4 @@ title: Welcome to my Jekyll site
       </li>
     {% endfor %}
   </ul>
-</div>
+</div>-->
